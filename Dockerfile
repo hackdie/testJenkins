@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM node:8.1.3
 
 #install nodejs and npm
 RUN apt-get update
